@@ -1,0 +1,25 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/akash30104/akash30104/main/avatar.jpg" width="200" alt="Akash Avatar" />
+  <h1>Hi, I'm Akash 👋</h1>
+  <h3>UI/UX Designer crafting intuitive and user-centered digital experiences</h3>
+  <p>
+    I’m a <b>Freelance UI/UX Designer</b> passionate about combining user research, usability principles, and modern visual design to solve real-world problems. I specialize in designing responsive web and mobile interfaces for FinTech, Healthcare, and Enterprise applications.
+  </p>
+  <br/>
+  <h3>🚀 Featured Projects</h3>
+  <p><b>LumaPay</b>: Smart Digital Payment Platform (FinTech)</p>
+  <p><b>Blood Link</b>: AI-Powered Emergency Blood Response Platform</p>
+  <p><b>FranchiFlow</b>: AI Restaurant Franchise Management Platform</p>
+  <br/>
+  <h3>🔥 My GitHub Activity</h3>
+  <p>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akash30104/akash30104/main/dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akash30104/akash30104/main/light.svg">
+      <img alt="GitHub Jet Heatmap" src="https://raw.githubusercontent.com/akash30104/akash30104/main/dark.svg" width="100%">
+    </picture>
+  </p>
+  <p>
+    <img src="https://raw.githubusercontent.com/akash30104/akash30104/main/dist/github-jet.svg" alt="GitHub Jet Heatmap" width="100%" />
+  </p>
+</div>
